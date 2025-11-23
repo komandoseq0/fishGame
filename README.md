@@ -1,4 +1,4 @@
-#Ryba game
+# Ryba game
 
 Prosta gra działająca na HTML Canvas, w której sterujesz czarnym kwadratem i zbierasz żółte punkty, żeby zwiększać swój rozmiar. Całość działa w czasie rzeczywistym, a plansza dopasowuje się do okna przeglądarki.
 
