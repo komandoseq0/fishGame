@@ -1,33 +1,46 @@
-Opis projektu
+Ryba game
 
-Ten projekt to prosta gra oparta na HTML Canvas, w której gracz steruje czarnym kwadratem poruszającym się po ekranie za pomocą klawiszy W, A, S, D. Co kilka sekund na mapie pojawiają się żółte punkty. Gdy gracz je dotknie, jego rozmiar zwiększa się, a punkt znika z planszy.
+Prosta gra działająca na HTML Canvas, w której sterujesz czarnym kwadratem i zbierasz żółte punkty, żeby zwiększać swój rozmiar. Całość działa w czasie rzeczywistym, a plansza dopasowuje się do okna przeglądarki.
 
-Funkcjonalności
+🎮 Jak to działa
 
-Dynamiczne dopasowanie płótna do okna przeglądarki.
+Poruszasz się za pomocą W, A, S, D.
 
-Ruch gracza w czterech kierunkach (W, A, S, D).
+Co 2 sekundy na ekranie pojawia się losowy punkt.
 
-Losowe generowanie punktów na ekranie w stałych odstępach czasu.
+Jeśli go dotkniesz — Twój kwadrat powiększa się.
 
-Kolizje oparte na prostokątnych hitboxach.
+W prawym górnym rogu widzisz aktualny rozmiar gracza.
 
-Powiększanie gracza po zebraniu punktu.
+Kolizje są liczone na podstawie prostokątnych hitboxów.
 
-Prosty licznik rozmiaru wyświetlany na stronie.
+✨ Funkcje
 
-Technologie
+Dynamiczne skalowanie canvasu.
 
-HTML Canvas — renderowanie grafiki.
+System kolizji gracza z punktami.
 
-JavaScript — logika gry, obsługa wejścia i kolizji.
+Prostokątne hitboxy oparte na aktualnym położeniu.
 
-CSS/HTML — podstawowa struktura i styl.
+Losowe generowanie punktów z unikalnym ID.
 
-Jak uruchomić
+Prosty, przejrzysty kod oparty na czystym JavaScripcie.
 
-Pobierz repozytorium.
+🧩 Technologie
 
-Otwórz plik index.html w przeglądarce.
+HTML
 
-Gra automatycznie się uruchomi.
+CSS
+
+JavaScript (Canvas API)
+
+🚀 Uruchamianie
+
+Pobierz repozytorium lub sklonuj je:
+
+git clone <repo-url>
+
+
+Otwórz index.html w przeglądarce.
+
+Gotowe — gra startuje od razu.
