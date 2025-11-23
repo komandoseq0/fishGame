@@ -36,11 +36,5 @@ JavaScript (Canvas API)
 
 🚀 Uruchamianie
 
-Pobierz repozytorium lub sklonuj je:
-
-git clone <repo-url>
-
-
-Otwórz index.html w przeglądarce.
-
-Gotowe — gra startuje od razu.
+Możesz zagrać na tym linku: https://komandoseq0.github.io/fishGame/
+Albo sklonować projekt i odpalić index.html
